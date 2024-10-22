@@ -5,8 +5,6 @@ Predicting maternal health risks and classifying speech disorders through featur
 
 This project involves the analysis of maternal health risk data using various machine learning algorithms. The primary goal is to build predictive models for risk assessment based on the provided dataset named "Maternal Health Risk Data Set.csv."
 
-### Project Components
-
 1. **Data Preprocessing**
 
 1.1. Feature Selection
@@ -45,8 +43,6 @@ Confusion matrix
 
 ## part tow:
 This project involves the analysis of speech features data for the classification of speech disorders. The primary objective is to build and evaluate machine learning models to classify speech samples into two categories: healthy (1) and speech disorders (0). The dataset used for this project is named "pd_speech_features.csv."
-
-### Project Components
 
 1. **Data Preprocessing**
 
