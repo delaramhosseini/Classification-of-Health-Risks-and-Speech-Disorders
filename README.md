@@ -7,7 +7,7 @@ This project involves the analysis of maternal health risk data using various ma
 
 ### Project Components
 
-1. Data Preprocessing
+1. **Data Preprocessing**
 
 1.1. Feature Selection
 
@@ -21,11 +21,11 @@ The target variable, representing maternal health risk levels, is encoded into n
 'mid risk' is encoded as 1
 'high risk' is encoded as 2
 
-2. Train-Test Split
+2. **Train-Test Split**
 
 The dataset is split into training and test sets. Approximately 70% of the data is used for training, and 30% is reserved for testing. Random indices are selected to achieve this split.
 
-3. Model Building and Evaluation
+3. **Model Building and Evaluation**
 
 The project employs several machine learning algorithms for modeling and evaluation. Each algorithm is explored with different parameter settings.
 
@@ -34,7 +34,7 @@ K-Nearest Neighbors (KNN)
 Support Vector Machine (SVM)
 Random Forest
 
-4. Model Evaluation Metrics
+4. **Model Evaluation Metrics**
 
 For each model, the following evaluation metrics are calculated:
 
@@ -48,7 +48,7 @@ This project involves the analysis of speech features data for the classificatio
 
 ### Project Components
 
-1. Data Preprocessing
+1. **Data Preprocessing**
 
 1.1. Feature Selection
 
@@ -64,11 +64,12 @@ The target variable, representing the classification labels, is encoded as follo
 
 Healthy speech (Class 1) is encoded as 1.
 Speech disorders (Class 0) are encoded as 0.
-2. Model Building and Evaluation
+
+2. **Model Building and Evaluation**
 
 Machine learning models are built and evaluated using the training and test datasets. Three types of models are explored: Decision Trees, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Random Forests. Different parameter settings are tested for each model.
 
-3. Model Evaluation Metrics
+3. **Model Evaluation Metrics**
 
 For each model, the following evaluation metrics are calculated:
 
